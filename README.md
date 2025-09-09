@@ -14,7 +14,7 @@
 
 ## Highlight My Skill List
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,vscode,aws,vite" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,tailwindcss,js,java,react,nodejs,vscode,aws,vite" /> <br /><br />
 
 
 ## Github Actions
