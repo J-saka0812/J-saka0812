@@ -15,3 +15,8 @@
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=J-saka0812&theme=blueberry)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=J-saka0812&theme=blueberry)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=J-saka0812&theme=blueberry&utcOffset=8)
