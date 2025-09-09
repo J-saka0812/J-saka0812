@@ -4,7 +4,7 @@
 2. My favorites are React, JavaScript, Java, AWS
 
 
-##skill stack
+## Activate Skill
 <div align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=J-saka0812&theme=vue-dark&layout=compact" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-saka0812&theme=vue-dark&layout=compact" />
@@ -19,6 +19,7 @@
 <img src="https://skillicons.dev/icons?i=react,nodejs" /> <br /><br />
 
 
+## Github Actions
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=J-saka0812&theme=blueberry)
 
 
