@@ -11,13 +11,9 @@
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-saka0812&theme=vue-dark&layout=compact" />
 </div>
 
-## Programming Languages
+## Highlight My Skill List
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java" /> <br /><br />
-
-## Frameworks and Library
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,vscode,aws" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,vscode,aws,vite" /> <br /><br />
 
 
 ## Github Actions
