@@ -2,7 +2,7 @@
 
 ## My Profile View
 ![](https://komarev.com/ghpvc/?username=your-github-J-saka0812)　　　　　　　　<a href="https://x.com/@JS_chartier">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="X" width="30" /> JS@IT業界勉強中
+  <img src="https://github.com/J-saka0812/J-saka0812/blob/main/x-icon-circle.png?raw=true" alt="X" width="40" />
 </a>
 
 ## Activate Skill
