@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Black Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/620d9736-06b6-44c5-9320-9ebeda451d9c" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sanss&weight=600&size=26&pause=1000&color=1FE66BE8&center=true&width=500&lines=Welcome+to+My+github+Repository)](https://git.io/typing-svg)
 
 ## My Profile View
   ![](https://komarev.com/ghpvc/?username=your-github-J-saka0812)　　　　　　<a href="https://x.com/@JS_chartier">
