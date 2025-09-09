@@ -3,7 +3,12 @@
 
 2. My favorites are React, JavaScript, Java, AWS
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=J-saka0812)
+
+##skill stack
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=J-saka0812&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-saka0812&theme=vue-dark&layout=compact" />
+</div>
 
 ## Programming Languages
 
