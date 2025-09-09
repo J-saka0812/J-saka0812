@@ -1,7 +1,9 @@
 <img width="1584" height="396" alt="Black Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/620d9736-06b6-44c5-9320-9ebeda451d9c" />
 
 ## My Profile View
-![](https://komarev.com/ghpvc/?username=your-github-J-saka0812)[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/あなたのユーザー名)
+![](https://komarev.com/ghpvc/?username=your-github-J-saka0812)　　　　　　　　<a href="https://x.com/@JS_chartier">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="X" width="30" /> JS@IT業界勉強中
+</a>
 
 ## Activate Skill
 <div align="left"> 
