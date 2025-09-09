@@ -3,7 +3,7 @@
 
 2. My favorites are React, JavaScript, Java, AWS
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=J-saka&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=J-saka0812&show_icons=true&locale=en&layout=compact)
 
 ## Programming Languages
 
@@ -11,4 +11,4 @@
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=react,nodejs /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,nodejs" /> <br /><br />
