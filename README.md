@@ -17,7 +17,7 @@
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=react,nodejs" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,nodejs,vscode,aws" /> <br /><br />
 
 
 ## Github Actions
