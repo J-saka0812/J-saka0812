@@ -1,7 +1,7 @@
 <img width="1584" height="396" alt="Black Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/620d9736-06b6-44c5-9320-9ebeda451d9c" />
 
 ## My Profile View
-![](https://komarev.com/ghpvc/?username=your-github-J-saka0812)　　　　　　　　<a href="https://x.com/@JS_chartier">
+  ![](https://komarev.com/ghpvc/?username=your-github-J-saka0812)　　　　　　<a href="https://x.com/@JS_chartier">
   <img src="https://github.com/J-saka0812/J-saka0812/blob/main/x-social-media-white-round-icon.png?raw=true" alt="X" width="40" />
 </a>
 
