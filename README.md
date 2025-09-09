@@ -3,7 +3,7 @@
 
 2. My favorites are React, JavaScript, Java, AWS
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=J-saka0812&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=J-saka0812)
 
 ## Programming Languages
 
