@@ -2,7 +2,7 @@
 
 ## My States & X_acount
   ![](https://komarev.com/ghpvc/?username=your-github-J-saka0812)　<img src="https://github.com/J-saka0812/J-saka0812/blob/main/AWS-Certified-Solutions-Architect-Associate_badge_150x150.e359ae4a6d4d82c3e31d4f9104c8d389b56a2423.png?raw=true" alt="X" width="40" />
-<a href="https://x.com/@JS_chartier">
+　<a href="https://x.com/@JS_chartier">
   <img src="https://github.com/J-saka0812/J-saka0812/blob/main/x-social-media-white-round-icon.png?raw=true" alt="X" width="40" />
 </a>
 
