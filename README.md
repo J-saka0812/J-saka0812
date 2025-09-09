@@ -12,3 +12,6 @@
 ## Frameworks and Library
 
 <img src="https://skillicons.dev/icons?i=react,nodejs" /> <br /><br />
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=J-saka0812&theme=blueberry)
