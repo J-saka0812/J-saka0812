@@ -1,0 +1,232 @@
+{
+  "terminal.integrated.profiles.windows": {
+    "PowerShell": {
+      "path": [
+        "${env:ProgramFiles}\\PowerShell\\7\\pwsh.exe"
+      ],
+      "source": "PowerShell",
+      "icon": "terminal-powershell",
+      "args": [
+        "-NoLogo",
+        "-ExecutionPolicy",
+        "Bypass"
+      ]
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "files.autoSave": "afterDelay",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "cSpell.overrides": [],
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "tailwindCSS.emmetCompletions": true,
+  "tailwindCSS.includeLanguages": {
+    "html": "html",
+    "javascript": "javascript",
+    "css": "tailwindcss"
+  },
+  // snippetのサジェストを最初に出す。
+  "editor.snippetSuggestions": "top",
+  // 入力した時にどの項目にカーソルを合わせた状態にするかみたいなやつrecentlyUsedByPrefixにした
+  "editor.suggestSelection": "recentlyUsedByPrefix",
+  "editor.quickSuggestions": {
+    "strings": "true"
+  },
+  "multiCommand.commands": [
+    {
+      "command": "multiCommand.deleteLeftButKeepIndent",
+      "sequence": [
+        "cursorHome", // 行頭へ移動
+        "cursorRight", // インデント外へ移動
+        "cursorEndSelect", // 行末まで選択（正しいコマンド名）
+        "deleteLeft" // 選択部分を削除
+      ]
+    }
+  ],
+  "todo-tree.general.tags": [
+    "TODO",
+    "FIXME"
+  ],
+  "todo-tree.highlights.customHighlight": {
+    "TODO": {
+      "foreground": "black",
+      "background": "yellow",
+      "icon": "check",
+      "type": "text"
+    },
+    "FIXME": {
+      "foreground": "white",
+      "background": "red",
+      "icon": "alert",
+      "type": "text"
+    }
+  },
+  "github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false,
+    "javascript": false
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "editor.mouseWheelZoom": true,
+  "workbench.iconTheme": "catppuccin-latte",
+  "editor.wordWrap": "on",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "explorer.confirmDragAndDrop": false,
+  "npm.packageManager": "yarn",
+  "vsicons.dontShowNewVersionMessage": true,
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java"
+  },
+  "explorer.confirmDelete": false,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.tabSize": 2,
+  "indentRainbow.tabSize": 2,
+  // "workbench.colorTheme": "Winter is Coming (Dark Blue - No Italics)"
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "editor.semanticTokenColorCustomizations": {
+    "rules": {
+      "variable": "#bdf2ff",
+      "function": "#c6ff8efe",
+      "string": "#f8f8a9",
+      "parameter": "#f0fa89"
+    }
+  },
+  "workbench.colorCustomizations": {
+    // エディタ部分の背景色
+    "editor.background": "#080c0c",
+    // サイドバーの背景色
+    "sideBar.background": "#0a141357",
+    // アクティビティバー（一番左のアイコンが並ぶバー）の背景色
+    "activityBar.background": "#091311",
+    // 下部のステータスバーの背景色
+    "statusBar.background": "#020f0c",
+    // --- ターミナルの設定 ---
+    // ターミナルの背景色
+    "terminal.background": "#090e0c",
+    // ターミナルのデフォルト文字色
+    "terminal.foreground": "#d4d4d4",
+    // "black" (黒) の色
+    "terminal.ansiBlack": "#000000",
+    // "red" (赤) の色
+    "terminal.ansiRed": "#f32626",
+    // "green" (緑) の色
+    "terminal.ansiGreen": "#0cc981",
+    // "yellow" (黄) の色
+    "terminal.ansiYellow": "#f5f50d",
+    // "blue" (青) の色
+    "terminal.ansiBlue": "#3c84d1",
+    // "magenta" (マゼンタ) の色
+    "terminal.ansiMagenta": "#ea8cea",
+    // "cyan" (シアン) の色
+    "terminal.ansiCyan": "#81e2fa",
+    // "white" (白) の色
+    "terminal.ansiWhite": "#e5e5e5"
+  },
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "comment",
+        "settings": {
+          // コメント色を指定
+          "foreground": "#dddddda2"
+        }
+      },
+      {
+        "scope": "string",
+        "settings": {
+          "foreground": "#f7c9ab" // 文字列の色
+        }
+      },
+      {
+        "scope": [
+          "support.function", // preventDefaultなどが含まれることが多いスコープ
+          // "entity.name.function" // 一般的な関数名
+        ],
+        "settings": {
+          "foreground": "#bafcfb"
+        }
+      },
+      {
+        // const, let, var, class, function, import, from など
+        "scope": [
+          "storage.type",
+        ],
+        "settings": {
+          "foreground": "#87aafb"
+        },
+      },
+      {
+        "scope": [
+          "keyword.control"
+        ],
+        "settings": {
+          "foreground": "#e1a0f7fa"
+        },
+      },
+      {
+        // true, false, null など
+        "scope": "constant.language",
+        "settings": {
+          "foreground": "#4dabfd" // 言語定数の色
+        }
+      },
+      {
+        "scope": "entity.name.tag",
+        "settings": {
+          "foreground": "#de7df8" // HTMLタグの色
+        }
+      },
+      {
+        // CSSのクラス名、ID名、タグ名セレクタ
+        "scope": [
+          "entity.other.attribute-name.class.css",
+          "entity.other.attribute-name.id.css",
+          "entity.name.tag.css"
+        ],
+        "settings": {
+          "foreground": "#3ca1ff" // セレクタの色
+        }
+      },
+      {
+        // CSSの rgb(), var(), url() などの関数
+        "scope": "support.function.misc.css",
+        "settings": {
+          "foreground": "#f9aef3" // CSS関数の色
+        }
+      },
+      {
+        // CSSのプロパティ値 (none, pointer, auto, block など)
+        "scope": "support.constant.property-value.css",
+        "settings": {
+          "foreground": "#f0fa7e" // プロパティ値の色
+        }
+      },
+      {
+        // CSSの単位 (rem, px, em, % など)
+        "scope": "keyword.other.unit",
+        "settings": {
+          "foreground": "#e8ffdb" // 単位の色
+        }
+      },
+      {
+        // 数値 (1.5, 100, -10 など)
+        "scope": "constant.numeric",
+        "settings": {
+          "foreground": "#e1f7d6" // 数値の色
+        }
+      }
+    ]
+  }
+}
